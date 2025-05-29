@@ -7,13 +7,6 @@ The cards automatically opens the /listcards menu and checks which cards are act
 ![2025-05-29_08 25 08](https://github.com/user-attachments/assets/f6a31f7e-0e8a-4052-bca3-e983d91b603b)
 ![2025-05-29_08 25 04](https://github.com/user-attachments/assets/d809e23f-374e-496b-8c01-416637bc2f1d)
 
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Building from Source](#building-from-source)
-
 ---
 
 ## Installation
