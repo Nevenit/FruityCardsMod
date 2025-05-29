@@ -12,11 +12,7 @@ The cards automatically opens the /listcards menu and checks which cards are act
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Configuration](#configuration)
 * [Building from Source](#building-from-source)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 ---
 
