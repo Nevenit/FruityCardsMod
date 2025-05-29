@@ -11,7 +11,7 @@ object WorldRendering {
         if (world.time % 4 != 0L) return
 
         val dustParticle = DustParticleEffect(colour, 1.0f)
-        world.addParticleClient(
+        world.addParticle(
             dustParticle,
             entity.x + (world.random.nextDouble() - 0.5) * 0.5,
             entity.y + world.random.nextDouble() * 0.5,
@@ -37,7 +37,7 @@ object WorldRendering {
         val xOffset = cos(angle) * distance
         val zOffset = sin(angle) * distance
 
-        world.addParticleClient(
+        world.addParticle(
             dustParticle,
             entity.x + xOffset,
             entity.y + height,
