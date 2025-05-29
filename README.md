@@ -35,16 +35,14 @@ The cards automatically opens the /listcards menu and checks which cards are act
 
 1. Clone the repository:
 
-   ```bash
-   ```
-
+```bash
 git clone [https://github.com/Nevenit/FruityCardsMod.git](https://github.com/Nevenit/FruityCardsMod.git)
 cd FruityCardsMod
+```
 
-````
 2. Run Gradle build:
-   ```bash
+```bash
 ./gradlew build
-````
+```
 
 3. The compiled mod JAR will be located in `build/libs/`.
