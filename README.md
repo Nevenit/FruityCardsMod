@@ -1,6 +1,12 @@
 # FruityCardsMod
 
 **FruityCardsMod** is a simple Minecraft mod for the [fruitservers.net](https://fruitservers.net/) Skyblock server that highlights collectible cards in your inventory and in the world, making them easier to spot and track.
+The cards automatically opens the /listcards menu and checks which cards are active for the week. This only happens the first time the skyblock server is joined after restarting the game.
+
+![2025-05-29_08 24 49](https://github.com/user-attachments/assets/c4ff4dd0-de1b-4b88-8875-8f73b67cc8eb)
+![2025-05-29_08 25 08](https://github.com/user-attachments/assets/f6a31f7e-0e8a-4052-bca3-e983d91b603b)
+![2025-05-29_08 25 04](https://github.com/user-attachments/assets/d809e23f-374e-496b-8c01-416637bc2f1d)
+
 
 ## Table of Contents
 
