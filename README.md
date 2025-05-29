@@ -36,7 +36,7 @@ The cards automatically opens the /listcards menu and checks which cards are act
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/Nevenit/FruityCardsMod.git](https://github.com/Nevenit/FruityCardsMod.git)
+git clone https://github.com/Nevenit/FruityCardsMod.git
 cd FruityCardsMod
 ```
 
